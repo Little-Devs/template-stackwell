@@ -1,0 +1,87 @@
+{
+  "id": "stackwell",
+  "name": "Stackwell",
+  "description": "Plumber landing for Melbourne inner north and west. Wet terracotta, brass fittings, deep slate, paper-white. Light-custom: logo, colours, fonts, copy, section on/off.",
+  "category": "landing-page",
+  "subcategory": "plumber",
+  "repository": "https://github.com/Little-Devs/template-stackwell",
+  "demoUrl": "https://stackwell.little.website/",
+  "previewImage": "",
+  "techStack": {
+    "framework": "Astro",
+    "version": "5.17.1",
+    "styling": "CSS variables",
+    "scripting": "TypeScript",
+    "buildTool": "Vite"
+  },
+  "features": [
+    "Melbourne inner north and west plumber landing",
+    "Light-custom: logo, colours, fonts, and copy",
+    "Section on/off for hero, jobs, after-hours, steps, and contact",
+    "Terracotta, brass, and slate palette",
+    "Pressure-gauge hero and suburb ticker (Barlow Condensed, Karla)",
+    "Mailto job-book contact form",
+    "Fully responsive Astro SSG"
+  ],
+  "aesthetic": {
+    "style": "Trade plumber",
+    "description": "Plumber landing for Melbourne inner north and west",
+    "fonts": {
+      "display": "Barlow Condensed",
+      "body": "Karla",
+      "mono": "IBM Plex Mono",
+      "sans": "Karla",
+      "primary": "Barlow Condensed"
+    },
+    "colors": {
+      "primary": "#232A31",
+      "primaryName": "Slate",
+      "accent": "#B3502F",
+      "accentName": "Terracotta",
+      "background": "#F7F3EC",
+      "backgroundName": "Paper",
+      "slate": "#232A31",
+      "terracotta": "#B3502F",
+      "brass": "#C49A45",
+      "paper": "#F7F3EC",
+      "mist": "#C6CFD8"
+    }
+  },
+  "sections": [
+    "Hero",
+    "Jobs",
+    "After-hours",
+    "Steps",
+    "Contact"
+  ],
+  "useCases": [
+    "Licensed plumbers",
+    "Emergency plumbing vans",
+    "Hot-water and drain trades",
+    "Inner-suburban trade landings"
+  ],
+  "customization": {
+    "difficulty": "easy",
+    "colorScheme": "CSS variables",
+    "typography": "Google Fonts (Barlow Condensed, Karla, IBM Plex Mono)",
+    "layout": "CSS Grid + Flexbox"
+  },
+  "performance": {
+    "framework": "Astro (SSG)",
+    "cssOnly": "Most animations",
+    "lighthouse": "90+"
+  },
+  "license": "MIT",
+  "author": "Little-Devs",
+  "createdAt": "2026-09-02",
+  "lastUpdated": "2026-09-02",
+  "tags": [
+    "landing-page",
+    "plumber",
+    "trades",
+    "melbourne",
+    "astro",
+    "ssg"
+  ],
+  "version": "1.0.0"
+}
